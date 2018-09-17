@@ -8,7 +8,6 @@
     "url": "https://webtorrent.io"
   },
   "browser": {
-    "bittorrent-dht/client": false
   },
   "bugs": {
     "url": "https://github.com/webtorrent/torrent-discovery/issues"
